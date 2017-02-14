@@ -1,0 +1,69 @@
+\documentclass{beamer}
+\usetheme{metropolis}           % Use metropolis theme
+\title{Food commodity prices, shocks and factor markets in Africa: Implications on income distribution, food and nutrition security}
+\date{\today}
+\logo{\includegraphics[height=0.8cm]{logo_zef.png}\vspace{220pt}}
+\author{\includegraphics[height=1cm,width=5cm]{logo_zef.png} \\ Henry Kankwamba}
+%\institute{Centre for Development Research (ZEF)}
+\begin{document}
+  \maketitle
+  \begin{frame}
+\begin{itemize}
+	\item     <1-| alert@1> Commodity price shocks could have significant impacts on factor markets and welfare (Abott and Batisti, 2009; Byerlee et al., 2006; Deaton and Miller, 1995). 
+	\item <2-| alert@2> Higher prices could be beneficial to owners of factors of production by increasing their incomes (Breisinger et al., 2009). 
+	\item <3-| alert@3> Higher income could stimulate demand for commodities and also lead to more savings and investment (Burfisher, 2011). Shocks e.g. price shocks adverse weather events could have reverse effects.
+	\end{itemize}
+  \end{frame}
+  
+  \begin{frame}
+  	\begin{itemize}
+  		\item <1-| alert@1> Of note, agricultural households are complex. There are net producers who maximize profit, net consumers who maximize utility and autarkic households (Sadoulet and de Janvry, 1995; Benjamin, 1992). 
+  		\item A shock to these households could have varied results on these households. Producers could benefit, consumers would be hurt while autarkic households might be unaffected or might face indirect impacts.
+	    \item  <2-| alert@2> Therefore, making judgements about welfare effects could be difficult in absence of data (Kalkuhl et al., 2016).  
+  	\end{itemize}
+  \end{frame}
+  \begin{frame}
+  	\begin{itemize}
+  		\item <1-| alert@1> While there is evidence that markets are generally imperfect in Sub-Saharan Africa, little attention has been paid towards how commodity markets interact with factor markets (Rashid and Minot, 2010; Poulton et al., 2006; Barrett et al., 2001). 
+  		\item It could be interesting to examine how household labor allocation decisions and shadow prices for labor change when shocks hit households.  
+  		\item <2-| alert@2> Further, how policy and distortions in agricultural commodity markets could influence factor market or vice versa has also not been addressed adequately. 
+  	\end{itemize}
+  \end{frame}
+  \begin{frame}
+  	\begin{itemize}
+  		\item <1-| alert@1> Most studies focus on commodity market interactions (Minot et al., 2011; Norton, 2004; Jayne et al., 2002; Readon et al., 1994). 
+  		\item <2-| alert@2>Further, effects of market interactions on income distribution, food and nutrition security outcomes among heterogeneous households has not been thoroughly examined. Notable examples usually use descriptive measures (Case, 1996; Barret and Dorosh, 1998).
+  	\end{itemize}
+  \end{frame}
+  
+  \begin{frame}
+  The main objective of this research is to assess the impact of staple food price shocks on factor markets, household income distribution, food and nutrition security. 
+  
+Specifically, it seeks 
+  	\begin{enumerate}
+  		\item <1-| alert@1> To quantify effects of price policy and exogenous distortions on local staple food markets. 
+  		\item <2-| alert@2> To assess the impact of a staple food price shock on labor allocation decisions and shadow prices of labor.
+  		\item <3-| alert@3>To measure the economy wide distributional effects of a staple food price shock on real consumption, calorie and micronutrient intake.  
+  	\end{enumerate}
+  
+  \end{frame}
+  
+  \begin{frame}
+  The study seeks to answer  these research questions.
+  \begin{itemize}
+  \item <1-| alert@1> To what extent do staple food price policy and exogenous distortions reflect on local food markets?
+  \item <2-| alert@2> How much do staple food price changes affect the effective wage in the medium term?
+\item	<3-| alert@3> Can heterogeneity in staple food preferences reflect vulnerability to food price shocks? 
+\item  <4-| alert@4> To what extent do shocks affect real consumption, calorie and micronutrient intake?  
+  \end{itemize}
+  \end{frame}
+  
+\begin{frame}{Methods}
+In general, I am thinking in an agricultural household modeling framework
+\begin{itemize}
+\item To achieve objective one, the study will use threshold regression approaches.
+\item To achieve objective two, the study will use sample selection regression models.
+\item To achieve the third objective, the study will use a demand systems approach and microsimulations.
+\end{itemize}
+\end{frame}
+\end{document}}
